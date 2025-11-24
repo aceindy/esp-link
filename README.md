@@ -1,6 +1,6 @@
 Link to [online installer](https://aceindy.github.io/esp-link/) on GitHub.IO
 
-PS: Because I mainly use this project for my [Duepi Pellet stove]([url](https://github.com/aceindy/Duepi_EVO)), and the fact that the latest app of DPRemote is stuck at port 2000, I took the liberty to [change the secondary port from 2323 to 2000 and recompiled from there](https://github.com/aceindy/esp-link/commit/d8fcdd9cab574b2cc1f54f2f8527749f49d43cd3) so it works 'out-of-the-box' fpr my own project.
+PS: Because I mainly use this project for my [Duepi Pellet stove]([url](https://github.com/aceindy/Duepi_EVO)), and the fact that the latest app of DPRemote is stuck at port 2000, I took the liberty to [change the secondary port from 2323 to 2000 and recompiled from there](https://github.com/aceindy/esp-link/commit/d8fcdd9cab574b2cc1f54f2f8527749f49d43cd3) so it works 'out-of-the-box' for my own project.
 
 ESP-LINK: Wifi-Serial Bridge w/REST&MQTT
 ========================================
